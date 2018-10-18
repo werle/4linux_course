@@ -1,0 +1,6 @@
+---
+- name: playbook que vou testar o git
+  host: all
+  tasks:
+    - name: testando
+      shell: corinthians perdeu
